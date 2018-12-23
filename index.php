@@ -3,12 +3,14 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Aprende|GIT</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 </head>
 <body>
-	<h1>Git && gitHub</h1>
+	<h1 class="text-center">Git && gitHub</h1>
 	<hr>
 
 	<div class="container">
+		<div class="card card-body bg-light">
 		<p>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -17,6 +19,7 @@
 			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 		</p>
+		</div>
 
 	</div>
 
